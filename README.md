@@ -25,8 +25,8 @@ Aprendendo o desenvolvimento Front-end, CSS e JavaScript. Quero me especializar 
 
 <div>
   <a href="https://github.com/douglaasdg">
-   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=douglaasdg&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
-   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaasdg&layout=compact&langs_count=16&theme=midnight-purple&show_icons=true" />
+   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=douglaasdg&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaasdg&layout=compact&langs_count=16&theme=midnight-purple&show_icons=true" />
 </div>
    
 <picture>
