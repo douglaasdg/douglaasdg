@@ -23,4 +23,10 @@ Aprendendo o desenvolvimento Front-end, CSS e JavaScript. Quero me especializar 
 
 #### ℹ️ Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglaasdg&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/douglaasdg">
+   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=douglaasdg&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaasdg&layout=compact&langs_count=16&theme=midnight-purple&show_icons=true" />
+</div>
+
+![Snake animation](https://github.com/douglaasdg/douglaasdg/blob/output/github-contribution-grid-snake.svg)
