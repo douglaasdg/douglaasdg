@@ -28,5 +28,9 @@ Aprendendo o desenvolvimento Front-end, CSS e JavaScript. Quero me especializar 
    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=douglaasdg&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaasdg&layout=compact&langs_count=16&theme=midnight-purple&show_icons=true" />
 </div>
-
-![Snake animation](https://github.com/douglaasdg/douglaasdg/blob/output/github-contribution-grid-snake.svg)
+   
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/douglaasdg/douglaasdg/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/douglaasdg/douglaasdg/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/douglaasdg/douglaasdg/output/github-contribution-grid-snake.svg">
+</picture>
