@@ -1,5 +1,10 @@
 ### Olá, seja Bem-Vindo! 👋
-Aprendendo o desenvolvimento Front-end, CSS e JavaScript. Quero me especializar Full Stack em python.
+I'm a Systems Analysis and Development student interested in working as a
+full-stack developer, exploring both front-end and back-end. I have an affinity for
+programming, logic, and problem-solving, and I'm constantly learning language tools
+such as HTML, CSS, JavaScript, JQuery, and modern frameworks. I'm in a career transition
+and seeking an opportunity to apply my knowledge to real-world projects and, over time,
+evolve as a professional.
 
 ##
 
