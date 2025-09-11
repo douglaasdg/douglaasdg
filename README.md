@@ -3,7 +3,7 @@ Aprendendo o desenvolvimento Front-end, CSS e JavaScript. Quero me especializar 
 
 ##
 
-#### 📚 Estudando:
+#### 📚 Estudando front-end:
 
 <div display="inline">
  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML"/>
