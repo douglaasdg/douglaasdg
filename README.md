@@ -1,4 +1,4 @@
-### Olá, seja Bem-Vindo! 👋
+### Hello, Welcome! 👋
 I'm a Systems Analysis and Development student interested in working as a
 full-stack developer, exploring both front-end and back-end. I have an affinity for
 programming, logic, and problem-solving, and I'm constantly learning language tools
