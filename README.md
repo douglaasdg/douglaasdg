@@ -8,7 +8,7 @@ evolve as a professional.
 
 ##
 
-#### 📚 Estudando front-end:
+#### 📚 Learning front-end:
 
 <div display="inline">
  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML"/>
@@ -18,7 +18,7 @@ evolve as a professional.
 </div>
 
 
-#### 💻 Minhas Redes
+#### 💻 My social media
 
 <a href="https://www.linkedin.com/in/douglas-cristian-3a6602354/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn">
@@ -26,7 +26,7 @@ evolve as a professional.
 
 ##
 
-#### ℹ️ Detalhes
+#### ℹ️ Details
 
 <div>
   <a href="https://github.com/douglaasdg">
