@@ -1,6 +1,6 @@
 ### Hello, Welcome! 👋
-I'm a Systems Analysis and Development student interested in working as a
-full-stack developer, exploring both front-end and back-end. I have an affinity for
+I'm a Systems Analysis and Development and AppSec student interested in working as a
+full-stack developer and cyber security, exploring both front-end and back-end. I have an affinity for
 programming, logic, and problem-solving, and I'm constantly learning language tools
 such as HTML, CSS, JavaScript, JQuery, and modern frameworks. I'm in a career transition
 and seeking an opportunity to apply my knowledge to real-world projects and, over time,
