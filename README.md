@@ -135,8 +135,3 @@ ___
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaasdg&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
 </p>
-
-<img
-     src="https://github.com/douglaasdg/douglaasdg/blob/output/github-contribution-grid-snake.svg"
-/>
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
