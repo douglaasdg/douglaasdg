@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 Acadêmico de Análise e Desenvolvimento de Sistemas (FIAP) e especializando em Engenharia Front-End (EBAC), atualmente em transição de carreira para o setor de tecnologia. Com sólida base teórica e prática desenvolvida em projetos acadêmicos, atuo no desenvolvimento de aplicações **Full Stack** utilizando o ecossistema **Java (Spring Boot, API REST)** e **Oracle SQL**, integrando-os a interfaces modernas com **React, TypeScript e Node.js**.
-Possuo experiência prática no ciclo completo de software: da prototipação no **Figma** e modelagem de dados à implementação final, com controle de versão via **Git/GitHub** e também conhecimento em **Linux** e distros com base **Debian** como **Ubuntu e Zorin OS**. Além da Web, possuo interface com **IoT**, desenvolvendo soluções que conectam hardware e software. Busco minha primeira oportunidade profissional para aplicar esse background técnico e contribuir com soluções escaláveis.
+Possuo experiência prática no ciclo completo de software: da prototipação no **Figma** e modelagem de dados à implementação final, com controle de versão via **Git/GitHub** e também conhecimento em **Linux** e distros com base **Debian** como **Ubuntu, Tails, Kali Linux e Zorin OS**. Além da Web, possuo interface com **IoT**, desenvolvendo soluções que conectam hardware e software. Busco minha primeira oportunidade profissional para aplicar esse background técnico e contribuir com soluções escaláveis.
 ___
 
 ### 🤖 Tecnologias
