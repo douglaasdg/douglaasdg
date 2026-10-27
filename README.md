@@ -2,8 +2,9 @@
 
 **`Desenvolvedor FullStack`**
 
-Acadêmico de Análise e Desenvolvimento de Sistemas (FIAP), atualmente em transição de carreira para o setor de tecnologia. Com sólida base teórica e prática desenvolvida em projetos acadêmicos, atuo no desenvolvimento de aplicações **Full Stack** utilizando o ecossistema **Java (Spring Boot, API REST)** e **Oracle SQL**, integrando-os a interfaces modernas com **React, TypeScript e Node.js**.
-Possuo experiência prática no ciclo completo de software: da prototipação no **Figma** e modelagem de dados à implementação final, com controle de versão via **Git/GitHub** e também conhecimento em **Linux** e distros com base **Debian** como **Ubuntu, Tails, Kali Linux e Zorin OS**. Além da Web, possuo interface com **IoT**, desenvolvendo soluções que conectam hardware e software. Busco minha primeira oportunidade profissional para aplicar esse background técnico e contribuir com soluções escaláveis.
+Systems Analysis and Development student at FIAP, currently transitioning into the technology sector. With a solid theoretical foundation and practical experience from academic projects, I develop **Full Stack** applications using the **Java (Spring Boot, REST API)** and **Oracle SQL** ecosystem, integrating them with modern interfaces built with **React, TypeScript and Node.js**.
+
+I have hands-on experience across the full software lifecycle, from prototyping in **Figma** and data modeling to final implementation, with version control via **Git/GitHub**. I also have knowledge of **Linux** and Debian-based distributions such as **Ubuntu, Tails, Kali Linux and Zorin OS**. Beyond the Web, I work with **IoT**, building solutions that connect hardware and software. I am looking for my first professional opportunity to apply this technical background and contribute to scalable solutions.
 ___
 
 ### 🤖 Tecnologias
