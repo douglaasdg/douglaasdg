@@ -7,7 +7,7 @@ Systems Analysis and Development student at FIAP, currently transitioning into t
 I have hands-on experience across the full software lifecycle, from prototyping in **Figma** and data modeling to final implementation, with version control via **Git/GitHub**. I also have knowledge of **Linux** and Debian-based distributions such as **Ubuntu, Tails, Kali Linux and Zorin OS**. Beyond the Web, I work with **IoT**, building solutions that connect hardware and software. I am looking for my first professional opportunity to apply this technical background and contribute to scalable solutions.
 ___
 
-### 🤖 Tecnologias
+### 🤖 Stacks
 
 
 <img
@@ -126,7 +126,7 @@ ___
 <br/>
 <br/>
 
-### 📊 Estatisticas
+### 📊 Statistics
 
 <div align="center">
   <a href="https://github.com/douglaasdg">
